@@ -1,0 +1,28 @@
+a:link {
+    background-color: #FF8080;
+    color: #B30700;
+    text-decoration: none;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+a:visited {
+    background-color: transparent;
+    color: #B30700;
+    text-decoration: underline;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+a:hover {
+    background-color: #B30700;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+a:active {
+    background-color: transparent;
+    color: #B30700;
+    text-decoration: underline;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

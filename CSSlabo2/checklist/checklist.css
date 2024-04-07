@@ -1,0 +1,6 @@
+.checklist{
+    list-style-image: url("unchecked.png");
+}
+.checked{
+list-style-image: url("checked.png");
+}

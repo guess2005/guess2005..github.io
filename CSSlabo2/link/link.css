@@ -1,6 +1,6 @@
 .link {
-    background-image: url("pin.png");
-    padding-left: 20px;
-    background-repeat: no-repeat;
+    padding-left: 20px; /* Ruimte tussen de link en het icoontje */
+    background-image: url('link.png'); /* Vervang 'pad/naar/je/icoon.png' door het pad naar je eigen icoonbestand */
+    background-repeat: no-repeat; /* Zorg ervoor dat de achtergrondafbeelding niet herhaald wordt */
     background-position: left center;
 }
